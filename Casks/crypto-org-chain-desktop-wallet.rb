@@ -1,6 +1,6 @@
 cask "crypto-org-chain-desktop-wallet" do
-  version "0.1.3"
-  sha256 "690ba3317bb09e9801153da65669b996b685b99ec93cd1f53a93c3c059cb1326"
+  version "0.1.4"
+  sha256 "4178d4a88d5aa796e005f90add9d0844b1cda704847fb08aef6154029c4d46b5"
 
   url "https://github.com/crypto-com/chain-desktop-wallet/releases/download/v#{version}/chain-desktop-wallet-#{version}.dmg"
   name "Crypto.org Chain Desktop Wallet (Beta)"
